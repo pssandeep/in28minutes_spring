@@ -1,0 +1,5 @@
+package com.pssandeep.springboot.learnjpaandhibernate.course.jdbc;
+
+public class CouseJdbcRepository {
+
+}
